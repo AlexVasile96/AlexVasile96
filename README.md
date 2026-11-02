@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Alex, a Computer Engineering student at Politecnico di Milano based in Italy & Aspiring Full-Stack Developer
+
+Solid foundation in CS fundamentals (Java, C, SQL). Currently building full-stack web applications with React & Node.js.
+
+- 📫 How to reach me: LinkedIn
