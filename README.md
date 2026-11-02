@@ -19,4 +19,4 @@ I'm Alex, a Computer Engineering student at Politecnico di Milano based in Italy
 
 Solid foundation in CS fundamentals (Java, C, SQL). Currently building full-stack web applications with React & Node.js.
 
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/vlad-alexandru-vasile-00b681270/)
